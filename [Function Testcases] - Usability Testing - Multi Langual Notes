@@ -1,0 +1,12 @@
+1) Manager can add language for a community
+A manager logged into KF can goto settings and add languages which members in the Community can write notes in.
+Reproducable Functional Tests > 
+- Login
+- Cick on Community Settings
+- Enable Multi Langual Plugin
+- search the language
+- select 
+- exit
+
+> Expected Result
+- New note will have that language button visible on top
